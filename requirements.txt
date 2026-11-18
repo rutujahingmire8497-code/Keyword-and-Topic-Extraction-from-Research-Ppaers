@@ -1,0 +1,9 @@
+datasets
+transformers
+torch
+sentencepiece
+rouge-score
+scikit-learn
+networkx
+numpy
+streamlit
